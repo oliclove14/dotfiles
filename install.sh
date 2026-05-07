@@ -29,7 +29,7 @@ yay -S --noconfirm \
 
 # Run end-4 dots installer first
 echo "Installing end-4 dots base..."
-bash <(curl -s https://end-4.github.io/dots-hyprland-wiki/setup.sh)
+bash <(curl -s https://ii.clsty.link/get)
 
 # Now overwrite with YOUR custom configs
 echo "Applying your custom configs..."
